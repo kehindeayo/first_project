@@ -1,0 +1,2 @@
+(this.webpackJsonpnewhorizons=this.webpackJsonpnewhorizons||[]).push([[12],{40:function(n,e,s){},56:function(n,e,s){"use strict";s.r(e);var i=s(1);s(0),s(40);e.default=function(){return Object(i.jsx)("div",{className:"main_container",children:Object(i.jsx)("div",{className:"profile_header"})})}}}]);
+//# sourceMappingURL=12.edabef87.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpnewhorizons=this.webpackJsonpnewhorizons||[]).push([[15],{54:function(e,n,s){"use strict";s.r(n);var i=s(1);s(0);n.default=function(){return Object(i.jsx)("div",{children:"This is the feed page"})}}}]);
+//# sourceMappingURL=15.62691be9.chunk.js.map

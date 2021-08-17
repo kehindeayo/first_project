@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Home/feeds.js"],"names":["Feeds"],"mappings":"mIAMeA,UAJD,WACV,OAAO","file":"static/js/15.62691be9.chunk.js","sourcesContent":["import React from 'react'\r\n\r\nconst Feeds = () => {\r\n    return <div>This is the feed page</div>\r\n}\r\n\r\nexport default Feeds"],"sourceRoot":""}
